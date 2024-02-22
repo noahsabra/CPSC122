@@ -1,4 +1,4 @@
-Only Contains 1 quiz and two projects, the rest were lost with the VM. 
+Only Contains two projects, the rest were lost with the VM. 
 
 
 
